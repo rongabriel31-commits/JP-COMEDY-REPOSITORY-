@@ -78,7 +78,7 @@ JP-COMEDY-REPO/
 │   └── continuity/
 │
 └── /archive
-    ├── deprecated/
+    ├── depreciated/
     ├── old-versions/
     └── temp-holding/
 ```
